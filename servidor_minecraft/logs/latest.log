@@ -239,3 +239,5 @@
 [06:15:55] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to PAPITO]
 [06:16:01] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to 58.500000, 71.000000, 500.500000]
 [06:20:11] [Server thread/INFO]: PAPITO has made the advancement [Best Friends Forever]
+[06:21:42] [Server thread/WARN]: PAPITO moved too quickly! 1.1142482911955085,0.16610926093821377,-9.989286833522328
+[06:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
