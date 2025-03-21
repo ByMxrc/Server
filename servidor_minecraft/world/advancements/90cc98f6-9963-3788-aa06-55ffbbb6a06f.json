@@ -7,14 +7,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-03-15 17:12:42 +0000",
+      "minecraft:beach": "2025-03-21 05:52:39 +0000",
+      "minecraft:dark_forest": "2025-03-21 05:56:59 +0000",
       "minecraft:forest": "2025-03-15 17:14:08 +0000",
+      "minecraft:deep_ocean": "2025-03-21 05:53:37 +0000",
+      "minecraft:river": "2025-03-15 17:13:45 +0000",
+      "minecraft:stony_shore": "2025-03-21 05:45:47 +0000",
+      "minecraft:dripstone_caves": "2025-03-15 17:16:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-15 17:12:42 +0000",
       "minecraft:deep_dark": "2025-03-21 03:31:41 +0000",
+      "minecraft:ocean": "2025-03-21 05:53:19 +0000",
       "minecraft:sunflower_plains": "2025-03-15 17:25:43 +0000",
       "minecraft:cherry_grove": "2025-03-15 18:47:53 +0000",
-      "minecraft:river": "2025-03-15 17:13:45 +0000",
       "minecraft:birch_forest": "2025-03-15 17:13:47 +0000",
-      "minecraft:dripstone_caves": "2025-03-15 17:16:35 +0000",
       "minecraft:plains": "2025-03-15 17:15:18 +0000",
       "minecraft:pale_garden": "2025-03-15 17:41:58 +0000"
     },
@@ -426,9 +431,12 @@
       "minecraft:pillager": "2025-03-15 18:49:00 +0000",
       "minecraft:cave_spider": "2025-03-21 04:32:04 +0000",
       "minecraft:skeleton": "2025-03-15 17:50:21 +0000",
+      "minecraft:phantom": "2025-03-21 05:48:18 +0000",
       "minecraft:breeze": "2025-03-21 04:15:17 +0000",
       "minecraft:spider": "2025-03-15 19:58:53 +0000",
       "minecraft:zombie": "2025-03-15 17:34:37 +0000",
+      "minecraft:creeper": "2025-03-21 05:39:37 +0000",
+      "minecraft:drowned": "2025-03-21 05:54:55 +0000",
       "minecraft:bogged": "2025-03-21 04:22:16 +0000"
     },
     "done": false
@@ -1719,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-21 05:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-03-21 03:36:03 +0000"
@@ -1854,6 +1868,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2025-03-21 04:38:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-21 05:57:25 +0000"
     },
     "done": true
   },

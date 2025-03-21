@@ -228,3 +228,8 @@
 [05:14:34] [Server thread/INFO]: ByMxrc has made the advancement [Into Fire]
 [05:20:38] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to PAPITO]
 [05:33:39] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to PAPITO]
+[05:50:25] [Server thread/WARN]: PAPITO moved too quickly! 8.120750272904388,-0.37673561378173304,5.873117594066457
+[05:58:15] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=2996, y=64, z=545}) doesn't have enough leaves around top most log
+[05:58:18] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=2995, y=64, z=545}) doesn't have enough leaves around top most log
+[05:58:20] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=2996, y=64, z=546}) doesn't have enough leaves around top most log
+[05:58:23] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=2996, y=65, z=545}) doesn't have enough leaves around top most log
