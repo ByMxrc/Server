@@ -2088,5 +2088,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-03-21 04:39:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
