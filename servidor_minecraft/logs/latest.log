@@ -226,3 +226,5 @@
 [05:13:45] [Worker-Main-5/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34536, l='ServerLevel[world]', x=376.00, y=31.00, z=-281.00] as it would cause deadlock
 [05:13:45] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34538, l='ServerLevel[world]', x=376.00, y=31.00, z=-281.00] as it would cause deadlock
 [05:14:34] [Server thread/INFO]: ByMxrc has made the advancement [Into Fire]
+[05:20:38] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to PAPITO]
+[05:33:39] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to PAPITO]
