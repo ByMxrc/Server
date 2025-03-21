@@ -348,6 +348,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-15 18:20:40 +0000",
+      "minecraft:cave_spider": "2025-03-21 04:31:51 +0000",
       "minecraft:skeleton": "2025-03-15 17:37:08 +0000",
       "minecraft:breeze": "2025-03-21 04:15:59 +0000",
       "minecraft:enderman": "2025-03-15 20:06:53 +0000",
@@ -386,6 +387,7 @@
       "rotten_flesh": "2025-03-15 17:46:48 +0000",
       "cooked_mutton": "2025-03-15 17:35:04 +0000",
       "cooked_beef": "2025-03-15 17:57:30 +0000",
+      "baked_potato": "2025-03-21 04:33:13 +0000",
       "golden_carrot": "2025-03-15 18:46:52 +0000"
     },
     "done": false
@@ -1914,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-03-21 04:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mud_brick_wall": {
     "criteria": {
       "has_mud_bricks": "2025-03-21 04:09:56 +0000"
@@ -2022,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-03-21 04:33:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-21 03:22:20 +0000"
@@ -2037,6 +2051,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-03-21 04:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-21 04:34:46 +0000"
     },
     "done": true
   },
