@@ -190,3 +190,39 @@
 [04:39:44] [Server thread/INFO]: PAPITO has made the advancement [Who Needs Rockets?]
 [04:51:30] [Server thread/INFO]: [ByMxrc: Teleported PAPITO to ByMxrc]
 [04:55:08] [Server thread/INFO]: ByMxrc has made the advancement [Take Aim]
+[05:02:56] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31375, l='ServerLevel[world]', x=281.00, y=31.00, z=53.00] as it would cause deadlock
+[05:02:56] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31378, l='ServerLevel[world]', x=281.00, y=31.00, z=53.00] as it would cause deadlock
+[05:02:57] [Worker-Main-5/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31381, l='ServerLevel[world]', x=281.00, y=31.00, z=311.00] as it would cause deadlock
+[05:02:57] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31383, l='ServerLevel[world]', x=281.00, y=31.00, z=311.00] as it would cause deadlock
+[05:03:18] [Worker-Main-5/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31493, l='ServerLevel[world]', x=303.00, y=31.00, z=76.00] as it would cause deadlock
+[05:03:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31497, l='ServerLevel[world]', x=303.00, y=31.00, z=76.00] as it would cause deadlock
+[05:04:12] [Server thread/INFO]: ByMxrc has made the advancement [Those Were the Days]
+[05:05:00] [Server thread/INFO]: ByMxrc has made the advancement [War Pigs]
+[05:05:02] [Server thread/INFO]: ByMxrc has made the advancement [Hidden in the Depths]
+[05:05:21] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31964, l='ServerLevel[world]', x=338.00, y=31.00, z=53.00] as it would cause deadlock
+[05:05:21] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/31966, l='ServerLevel[world]', x=338.00, y=31.00, z=53.00] as it would cause deadlock
+[05:05:32] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/32021, l='ServerLevel[world]', x=338.00, y=31.00, z=311.00] as it would cause deadlock
+[05:05:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/32024, l='ServerLevel[world]', x=338.00, y=31.00, z=311.00] as it would cause deadlock
+[05:09:53] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33067, l='ServerLevel[world]', x=328.00, y=31.00, z=339.00] as it would cause deadlock
+[05:09:53] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33070, l='ServerLevel[world]', x=334.00, y=31.00, z=341.00] as it would cause deadlock
+[05:09:53] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33073, l='ServerLevel[world]', x=328.00, y=31.00, z=339.00] as it would cause deadlock
+[05:09:53] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33076, l='ServerLevel[world]', x=334.00, y=31.00, z=341.00] as it would cause deadlock
+[05:10:39] [Worker-Main-6/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33310, l='ServerLevel[world]', x=442.00, y=31.00, z=13.00] as it would cause deadlock
+[05:10:39] [Worker-Main-6/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33312, l='ServerLevel[world]', x=444.00, y=31.00, z=11.00] as it would cause deadlock
+[05:10:39] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33314, l='ServerLevel[world]', x=442.00, y=31.00, z=13.00] as it would cause deadlock
+[05:10:39] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33316, l='ServerLevel[world]', x=444.00, y=31.00, z=11.00] as it would cause deadlock
+[05:10:39] [Worker-Main-5/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33323, l='ServerLevel[world]', x=436.00, y=31.00, z=346.00] as it would cause deadlock
+[05:10:39] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/33326, l='ServerLevel[world]', x=436.00, y=31.00, z=346.00] as it would cause deadlock
+[05:13:07] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34229, l='ServerLevel[world]', x=507.00, y=31.00, z=110.00] as it would cause deadlock
+[05:13:07] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34232, l='ServerLevel[world]', x=507.00, y=31.00, z=110.00] as it would cause deadlock
+[05:13:16] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34298, l='ServerLevel[world]', x=541.00, y=31.00, z=-57.00] as it would cause deadlock
+[05:13:16] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34301, l='ServerLevel[world]', x=541.00, y=31.00, z=-57.00] as it would cause deadlock
+[05:13:41] [Server thread/INFO]: ByMxrc has made the advancement [A Terrible Fortress]
+[05:13:42] [Server thread/INFO]: ByMxrc has made the advancement [Oh Shiny]
+[05:13:42] [Worker-Main-6/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34508, l='ServerLevel[world]', x=202.00, y=31.00, z=-258.00] as it would cause deadlock
+[05:13:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34511, l='ServerLevel[world]', x=202.00, y=31.00, z=-258.00] as it would cause deadlock
+[05:13:42] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34513, l='ServerLevel[world]', x=208.90, y=31.00, z=-266.00] as it would cause deadlock
+[05:13:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34516, l='ServerLevel[world]', x=208.90, y=31.00, z=-266.00] as it would cause deadlock
+[05:13:45] [Worker-Main-5/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34536, l='ServerLevel[world]', x=376.00, y=31.00, z=-281.00] as it would cause deadlock
+[05:13:45] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/34538, l='ServerLevel[world]', x=376.00, y=31.00, z=-281.00] as it would cause deadlock
+[05:14:34] [Server thread/INFO]: ByMxrc has made the advancement [Into Fire]
