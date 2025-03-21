@@ -7,15 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-03-15 17:12:42 +0000",
+      "minecraft:dark_forest": "2025-03-21 06:12:56 +0000",
       "minecraft:forest": "2025-03-15 18:10:01 +0000",
+      "minecraft:river": "2025-03-15 18:01:51 +0000",
+      "minecraft:stony_shore": "2025-03-21 06:15:01 +0000",
+      "minecraft:dripstone_caves": "2025-03-15 17:44:39 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-15 17:12:42 +0000",
       "minecraft:deep_dark": "2025-03-15 19:19:24 +0000",
       "minecraft:cherry_grove": "2025-03-15 18:10:34 +0000",
       "minecraft:sunflower_plains": "2025-03-15 18:58:11 +0000",
-      "minecraft:river": "2025-03-15 18:01:51 +0000",
+      "minecraft:grove": "2025-03-21 06:13:53 +0000",
       "minecraft:meadow": "2025-03-15 19:44:37 +0000",
       "minecraft:birch_forest": "2025-03-15 17:40:47 +0000",
-      "minecraft:dripstone_caves": "2025-03-15 17:44:39 +0000",
       "minecraft:plains": "2025-03-15 18:10:21 +0000",
       "minecraft:pale_garden": "2025-03-15 17:41:09 +0000"
     },
@@ -390,6 +393,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-15 18:15:05 +0000",
       "apple": "2025-03-15 19:48:10 +0000",
+      "golden_apple": "2025-03-21 05:59:28 +0000",
       "bread": "2025-03-21 04:18:09 +0000",
       "honey_bottle": "2025-03-21 04:17:23 +0000",
       "rotten_flesh": "2025-03-15 17:46:48 +0000",
@@ -2101,6 +2105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-21 06:05:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-03-21 04:09:53 +0000"
@@ -2650,6 +2660,12 @@
   "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-03-21 05:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-21 06:05:17 +0000"
     },
     "done": true
   },
