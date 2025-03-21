@@ -307,3 +307,9 @@
 [07:31:11] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to -14.500000, 36.000000, 177.500000]
 [07:31:15] [Server thread/INFO]: [ByMxrc: Teleported PAPITO to ByMxrc]
 [07:31:43] [Server thread/INFO]: [ByMxrc: Teleported PAPITO to -14.500000, 36.000000, 177.500000]
+[07:33:52] [Server thread/INFO]: PAPITO lost connection: Disconnected
+[07:33:52] [Server thread/INFO]: PAPITO left the game
+[07:36:31] [Server thread/INFO]: [ByMxrc: Teleported ByMxrc to 58.500000, 71.000000, 500.500000]
+[07:36:37] [Server thread/INFO]: ByMxrc lost connection: Disconnected
+[07:36:37] [Server thread/INFO]: ByMxrc left the game
+[07:37:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
