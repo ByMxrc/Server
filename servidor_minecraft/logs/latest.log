@@ -154,3 +154,9 @@
 [02:39:12] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
 [02:39:12] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
 [02:40:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:09:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:09:12] [Server thread/INFO]: <--[HERE]
+[03:09:14] [Server thread/INFO]: PAPITO[/127.181.81.69:39487] logged in with entity id 15 at (39.926008794310505, 71.0, 575.6300370199476)
+[03:09:14] [Server thread/INFO]: PAPITO joined the game
+[03:11:07] [Server thread/INFO]: ByMxrc[/127.113.129.68:48139] logged in with entity id 692 at (73.64003773861738, 74.0, 565.6424290887054)
+[03:11:07] [Server thread/INFO]: ByMxrc joined the game
