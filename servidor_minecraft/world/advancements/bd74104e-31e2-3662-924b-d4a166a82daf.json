@@ -354,7 +354,8 @@
       "minecraft:spider": "2025-03-15 17:46:54 +0000",
       "minecraft:zombie": "2025-03-15 17:33:51 +0000",
       "minecraft:creeper": "2025-03-15 18:00:40 +0000",
-      "minecraft:drowned": "2025-03-15 18:02:01 +0000"
+      "minecraft:drowned": "2025-03-15 18:02:01 +0000",
+      "minecraft:bogged": "2025-03-21 04:22:18 +0000"
     },
     "done": false
   },
@@ -1763,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-21 04:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-03-21 04:14:42 +0000"
@@ -1841,9 +1848,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 04:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-03-21 04:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-03-21 04:25:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:25:24 +0000"
     },
     "done": true
   },
@@ -1895,6 +1920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-21 04:25:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-21 04:14:42 +0000"
@@ -1943,9 +1974,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:25:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-03-21 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 04:24:21 +0000"
     },
     "done": true
   },
@@ -1988,6 +2031,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-03-21 03:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:25:24 +0000"
     },
     "done": true
   },

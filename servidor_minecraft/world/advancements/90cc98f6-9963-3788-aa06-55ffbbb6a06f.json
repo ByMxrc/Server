@@ -424,7 +424,8 @@
       "minecraft:skeleton": "2025-03-15 17:50:21 +0000",
       "minecraft:breeze": "2025-03-21 04:15:17 +0000",
       "minecraft:spider": "2025-03-15 19:58:53 +0000",
-      "minecraft:zombie": "2025-03-15 17:34:37 +0000"
+      "minecraft:zombie": "2025-03-15 17:34:37 +0000",
+      "minecraft:bogged": "2025-03-21 04:22:16 +0000"
     },
     "done": false
   },
@@ -1779,9 +1780,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 04:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-03-21 03:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:26:05 +0000"
     },
     "done": true
   },
@@ -1794,6 +1807,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-21 03:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-21 04:21:19 +0000"
     },
     "done": true
   },
@@ -1821,6 +1840,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-03-21 04:21:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-21 03:17:14 +0000"
@@ -1836,6 +1861,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-03-21 03:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-21 04:21:15 +0000"
     },
     "done": true
   },
@@ -1887,9 +1918,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-03-21 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-21 04:24:00 +0000"
     },
     "done": true
   },
@@ -1911,6 +1954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-21 04:21:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-03-21 04:11:30 +0000"
@@ -1926,6 +1975,18 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-03-21 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-21 04:21:15 +0000"
     },
     "done": true
   },
