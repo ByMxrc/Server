@@ -12,6 +12,7 @@
       "minecraft:taiga": "2025-03-21 06:28:43 +0000",
       "minecraft:river": "2025-03-15 18:01:51 +0000",
       "minecraft:stony_shore": "2025-03-21 06:15:01 +0000",
+      "minecraft:lush_caves": "2025-03-24 20:42:04 +0000",
       "minecraft:dripstone_caves": "2025-03-15 17:44:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-15 17:12:42 +0000",
       "minecraft:deep_dark": "2025-03-15 19:19:24 +0000",
@@ -398,6 +399,7 @@
       "apple": "2025-03-15 19:48:10 +0000",
       "golden_apple": "2025-03-21 05:59:28 +0000",
       "bread": "2025-03-21 04:18:09 +0000",
+      "cooked_chicken": "2025-03-24 20:38:22 +0000",
       "honey_bottle": "2025-03-21 04:17:23 +0000",
       "rotten_flesh": "2025-03-15 17:46:48 +0000",
       "enchanted_golden_apple": "2025-03-21 05:52:40 +0000",
@@ -3152,6 +3154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-24 20:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-24 19:43:20 +0000"
@@ -3254,6 +3262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-03-24 20:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-24 19:43:11 +0000"
@@ -3305,6 +3319,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-03-24 19:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-24 20:42:09 +0000"
     },
     "done": true
   },
@@ -3374,6 +3394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-24 20:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-03-24 19:43:20 +0000"
@@ -3419,6 +3445,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-24 20:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-24 20:36:40 +0000"
     },
     "done": true
   },
