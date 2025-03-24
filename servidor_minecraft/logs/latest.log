@@ -196,3 +196,16 @@
 [22:26:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [22:26:50] [Server thread/INFO]: ByMxrc[/127.139.127.11:34047] logged in with entity id 65131 at (67.28794608097405, 71.0, 578.5476960866445)
 [22:26:50] [Server thread/INFO]: ByMxrc joined the game
+[22:36:49] [Server thread/INFO]: ByMxrc lost connection: Disconnected
+[22:36:49] [Server thread/INFO]: ByMxrc left the game
+[22:36:55] [Server thread/INFO]: Stopping the server
+[22:36:55] [Server thread/INFO]: Stopping server
+[22:36:55] [Server thread/INFO]: Saving players
+[22:36:55] [Server thread/INFO]: Saving worlds
+[22:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:36:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
