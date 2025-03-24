@@ -3466,7 +3466,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 21:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-24 21:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-24 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-24 21:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-24 21:13:37 +0000"
     },
@@ -3490,27 +3514,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-03-24 21:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-03-24 21:10:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-03-24 21:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-03-24 21:10:26 +0000"
     },
     "done": true
   },
@@ -3535,12 +3541,6 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-03-24 21:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-24 21:13:37 +0000"
     },
     "done": true
   },
